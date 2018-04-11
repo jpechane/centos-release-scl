@@ -3,7 +3,7 @@
 # Please see http://wiki.centos.org/SpecialInterestGroup/SCLo for more
 # information
 
-[centos-sclo-SCLGROUP]
+[centos-sclo]
 name=CentOS-$releasever - SCLo SCLGROUP
 baseurl=http://mirror.centos.org/centos/$releasever/sclo/$basearch/SCLGROUP/
 gpgcheck=1
